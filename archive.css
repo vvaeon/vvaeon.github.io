@@ -1,0 +1,79 @@
+html {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+body {  
+  background-image: url("https://art.pixilart.com/15dd55164d2fd23.png") ;
+  background-size: cover; 
+  background-repeat: repeat-y;
+  background-position: center;
+  height: 100vh;
+}
+.popup-card { 
+  border: solid 5px #102b32;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  background-color: black;
+  z-index: 100;
+
+  height: 400px;
+  margin-top: -290px;
+
+  width: 800px;
+  margin-left: -400px;
+}
+.content {
+  color: #ff0a0a;
+}
+.material-symbols-rounded close-icon {
+  position: top-right;
+  right: 10px;
+  top: 10px;
+}
+  
+.container {
+  background-color: #dfeaec;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 5300px;
+  width: 800px;
+  margin: auto;
+}
+h3 {
+  color:#dfdff1;
+  font-family: lucida blackletter;
+  font-size: 45px;
+  text-align: center;
+}
+h2 {
+  color:#d9e2e7; 
+  font-family:'Blackletter Shadow';
+}
+h1 {
+  font-size: 45px;
+  font-family: blackletter;
+  color: #fcfcfc;
+}
+p {
+  font-size: 30px;
+  font-family:'Blackletter Shadow';
+  color: #d8e6e9
+}
+hr {
+  border: 4px solid #d7e0ef;
+}
+
+
+
+
+
+
+
+
+
+
+
+
